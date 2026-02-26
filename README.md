@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://4kwallpapers.com/images/wallpapers/marvel-logo-dark-3440x1440-22111.jpg" alt="Marvel banner" width="100%" />
+  <img src="https://mx.pinterest.com/pin/663858801359289559/" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban esta es mi segunda cuenta.
