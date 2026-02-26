@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7cef25d8-f84e-45df-82da-48cc8a866527/dhp463q-195e8bea-ad0f-48cd-9616-b71f17e73b00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83Y2VmMjVkOC1mODRlLTQ1ZGYtODJkYS00OGNjOGE4NjY1MjcvZGhwNDYzcS0xOTVlOGJlYS1hZDBmLTQ4Y2QtOTYxNi1iNzFmMTdlNzNiMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OgS2KNnpFQEj1aNOYi3dJV7-5mGJJ6xeRKURvJIKEaw.jpg" width="100%" />
+  <img src="https://pngimg.com/d/ironman_PNG47.png" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban esta es mi segunda cuenta.
