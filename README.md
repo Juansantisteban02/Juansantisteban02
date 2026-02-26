@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/78/f2/87/78f287285f9eb9e9659dd1e3b08f3f41.jpg" width="100%" />
+  <img src="https://e0.pxfuel.com/wallpapers/832/1018/desktop-wallpaper-black-panther-building-wakanda-fxguide-wakanda-landscape.jpg" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban esta es mi segunda cuenta.
