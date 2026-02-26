@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mx.pinterest.com/pin/663858801359289559/" width="100%" />
+  <img src="https://wallpapers.com/images/hd/marvel-iron-man-logo-esyjtb45lpw80wzp.jpg" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Juan Sebastián Diaz Santisteban esta es mi segunda cuenta.
